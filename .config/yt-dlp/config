@@ -1,0 +1,5 @@
+# Visualizar en 1080p o menos
+-f "bv[height<=1080]+ba/b"
+
+# Filtrar por resolución:
+-S "res:1080"
